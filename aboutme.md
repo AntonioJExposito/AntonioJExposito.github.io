@@ -8,9 +8,6 @@ I am a Lecturer at the
       <a href="https://www.bath.ac.uk/departments/department-of-chemical-engineering/" target="_blank">Department of Chemical Engineering, University of Bath</a>.
  My research interests focus on two main areas: catalyst design and reactor engineering. In particular, the development of microreactors and new hybrid photo-electrocatalysts that can be applied in environmental processes such as artificial photosynthesis.
 
-  </p>
-  <p>
-
 ### My story
 
 Previously I was a postdoctoral researcher at
