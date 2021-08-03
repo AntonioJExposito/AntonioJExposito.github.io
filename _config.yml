@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Antonio Expósito Research Group
+title: Antonio Expósito Research Groups
 
 # Your name to show in the footer
 author: Antonio Expósito
@@ -103,7 +103,7 @@ post_search: true
 
 navbar-col: "#00b6eb"
 navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
+navbar-border-col: "#00b6eb"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
