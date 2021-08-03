@@ -16,8 +16,8 @@ author: Antonio Expósito
 navbar-links:
   About Me: "aboutme"
   Research:
-    - Group members: "https://beautifuljekyll.com"
-    - Projects: "https://www.markdowntutorial.com/"
+    - Group members: "group"
+    - Projects: "projects"
   News: "https://deanattali.com"
 
 # --- Logo --- #
