@@ -1,6 +1,6 @@
 ---
 layout: page
-title: @settings{font-size: 10}Dr Antonio Expósito
+title: Dr Antonio Expósito
 subtitle: Lecturer at The University of Bath
 ---
 
