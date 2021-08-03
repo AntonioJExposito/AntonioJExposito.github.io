@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Antonio Expósito Research Groups
+title: Antonio Expósito Research Group
 
 # Your name to show in the footer
 author: Antonio Expósito
@@ -18,7 +18,7 @@ navbar-links:
   Research:
     - Group members: "group"
     - Projects: "projects"
-  News: "https://deanattali.com"
+  News: "www.bbc.co.uk"
 
 # --- Logo --- #
 
@@ -103,11 +103,11 @@ post_search: true
 
 navbar-col: "#00b6eb"
 navbar-text-col: "#404040"
-navbar-border-col: "#a7abaa"
+navbar-border-col: "#0085A1"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#2e008b"
-hover-col: "#0085A1"
+hover-col: "#a7abaa"
 footer-col: "#00b6eb"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
