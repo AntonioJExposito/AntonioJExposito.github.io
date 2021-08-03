@@ -60,12 +60,12 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-  ORCID: "https://orcid.org/0000-0001-6448-1681"
+  ORCID: 0000-0001-6448-1681
   google-scholar: "https://scholar.google.com/citations?user=dJkDG8sAAAAJ&hl=es"
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
