@@ -4,8 +4,6 @@ title: Dr Antonio Expósito
 subtitle: Lecturer at The University of Bath
 ---
 
-<img src="assets/img/hello_world.jpeg" width="193">{: .mx-auto.d-block :}
-
 I am a Lecturer at the 
       <a href="https://www.bath.ac.uk/departments/department-of-chemical-engineering/" target="_blank">Department of Chemical Engineering, University of Bath</a>.
  My research interests focus on two main areas: catalyst design and reactor engineering. In particular, the development of microreactors and new hybrid photo-electrocatalysts that can be applied in environmental processes such as artificial photosynthesis.
@@ -19,3 +17,5 @@ Previously I was a postdoctoral researcher at
       I obtained my PhD from the <a href="https://www.uclm.es/?sc_lang=en" target="_blank">Universidad de Castilla-La Mancha</a> where I also studied as an undergraduate.
 	I have also recieved a Master's degree in Renewable Energy from 
 	  <a href="http://www.uam.es/" target="_blank">Universidad Autónoma de Madrid</a>.
+	  
+<img src="assets/img/hello_world.jpeg" width="193">{: .mx-auto.d-block :}
