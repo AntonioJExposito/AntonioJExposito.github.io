@@ -34,7 +34,7 @@ h1 {
   font-size: 1.5rem;
 }
 h2 {
-  font-size: 1..25rem;
+  font-size: 1.25rem;
 }
 h3 {
   font-size: 1.15rem;
@@ -455,12 +455,12 @@ footer .footer-custom-content {
 }
 
 .post-preview .post-title {
-  font-size: 1.875rem;
+  font-size: 1.5rem;
   margin-top: 0;
 }
 .post-preview .post-subtitle {
   margin: 0;
-  font-weight: 300;
+  font-weight: 150;
   margin-bottom: 0.625rem;
 }
 .post-preview .post-meta,
