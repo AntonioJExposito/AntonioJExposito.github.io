@@ -11,6 +11,18 @@
     </a>
   </li>
 {%- endif -%}
+  
+{%- if site.social-network-links.bath -%}
+  <li class="list-inline-item">
+    <a href="https://researchportal.bath.ac.uk/en/persons/{{ site.social-network-links.bath }}" title="Facebook">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-web fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Bath website</span>
+   </a>
+  </li>
+{%- endif -%}
 
 {%- if site.social-network-links.email -%}
   <li class="list-inline-item">
