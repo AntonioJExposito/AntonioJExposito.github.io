@@ -18,6 +18,7 @@ navbar-links:
   Research:
     - Group members: "group"
     - Projects: "projects"
+    - Former members: "group"
   News: "https://www.bbc.co.uk/"
 
 # --- Logo --- #
