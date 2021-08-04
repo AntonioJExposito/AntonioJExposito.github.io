@@ -63,8 +63,9 @@ social-network-links:
 #  mastodon: instance.url/@username
   ORCID: 0000-0001-6448-1681
   google-scholar: citations?user=dJkDG8sAAAAJ&hl=en
-  research-gate: profile/Antonio-Exposito-2
   scopus: authid/detail.uri?origin=resultslist&authorId=57212740931&zone=
+  research-gate: profile/Antonio-Exposito-2
+  
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
