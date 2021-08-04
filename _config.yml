@@ -63,7 +63,7 @@ social-network-links:
 #  mastodon: instance.url/@username
   ORCID: 0000-0001-6448-1681
   google-scholar: citations?user=dJkDG8sAAAAJ&hl=en
-  scopus: authid/detail.uri?origin=resultslist&authorId=57212740931&zone=
+  scopus: detail.uri?origin=resultslist&authorId=57212740931&zone=
   research-gate: profile/Antonio-Exposito-2
   
 
