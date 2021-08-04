@@ -17,7 +17,7 @@
     <a href="https://researchportal.bath.ac.uk/en/persons/{{ site.social-network-links.bath }}" title="Bath website">
       <span class="fa-stack fa-lg" aria-hidden="true">
         <i class="fas fa-circle fa-stack-2x"></i>
-        <i class="fab fa-website fa-stack-1x fa-inverse"></i>
+        <i class="fab fa-wifi fa-stack-1x fa-inverse"></i>
       </span>
       <span class="sr-only">Bath website</span>
    </a>
@@ -272,6 +272,18 @@
         <i class="fa fa-graduation-cap fa-stack-1x fa-inverse"></i>
       </span>
       <span class="sr-only">Google Scholar</span>
+    </a>
+  </li>
+{%- endif -%}
+  
+ {%- if site.social-network-links.scopus -%}
+  <li class="list-inline-item">
+    <a href="https://www.scopus.com/authid/{{ site.social-network-links.scopus }}" title="Scopus">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fa fa-scopus fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Scopus</span>
     </a>
   </li>
 {%- endif -%}
