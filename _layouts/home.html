@@ -6,22 +6,22 @@ layout: page
 
  <body>
 	  
-<div class="header">
-  <a href="https://antoniojexposito.github.io/" class="logo">Antonio Expósito's Research Group</a>
-  <div class="header-right">
-    <a class="active" https://antoniojexposito.github.io/">Home</a>
-    <a href="https://antoniojexposito.github.io/research.html">Research</a>  
-    <a href="https://antoniojexposito.github.io/teaching.html">Teaching</a>
-  </div>
-</div>
-
 
 <div style="padding-left:20px">
-  <h1>About Antonio</h1>
-  <p></p>
-	<img src="Antonio Github photo 2.jpg" width="193">
-  
-  <p>
+	
+  font-family: 'Lora', 'Times New Roman', serif;
+  font-size: 1.125rem;
+  color: {{ site.text-col | default: "#404040" }};
+  position: relative;
+  background-color: {{ site.page-col | default: "#111111" }};
+  {% if site.page-img %}
+  background-image: url({{ site.page-img | relative_url }});
+  background-attachment: fixed;
+  {% endif %}
+}
+
+  <h1>Research</h1>
+
       I am a Lecturer at the 
       <a href="https://www.bath.ac.uk/departments/department-of-chemical-engineering/" target="_blank">Department of Chemical Engineering, University of Bath</a>.
  My research interests focus on two main areas: catalyst design and reactor engineering. In particular, the development of microreactors and new hybrid photo-electrocatalysts that can be applied in environmental processes such as artificial photosynthesis.
