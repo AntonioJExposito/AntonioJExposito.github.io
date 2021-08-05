@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Dr Antonio Expósito
+title: Dr Antonio Expósitos
 subtitle: Lecturer at The University of Bath
 ---
 
-<img src="Antonio Github photo 2.jpg" width="193"> 
+![Alt Text](Antonio Github photo 2.jpg)
 
 I am a Lecturer at the 
       <a href="https://www.bath.ac.uk/departments/department-of-chemical-engineering/" target="_blank">Department of Chemical Engineering, University of Bath</a>.
