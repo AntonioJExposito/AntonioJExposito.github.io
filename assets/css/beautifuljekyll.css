@@ -10,7 +10,7 @@ html {
   font-size: 100%
 }
 
-body1 {
+body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 1.125rem;
   color: {{ site.text-col | default: "#404040" }};
