@@ -9,15 +9,17 @@ layout: page
 
 <div style="padding-left:20px">
 	
-  font-family: 'Lora', 'Times New Roman', serif;
-  font-size: 1.125rem;
-  color: {{ site.text-col | default: "#404040" }};
-  position: relative;
-  background-color: {{ site.page-col | default: "#111111" }};
-  {% if site.page-img %}
-  background-image: url({{ site.page-img | relative_url }});
-  background-attachment: fixed;
-  {% endif %}
+body {
+	font-family: 'Lora', 'Times New Roman', serif;
+ 	 font-size: 1.125rem;
+  	color: {{ site.text-col | default: "#404040" }};
+  	position: relative;
+  	background-color: {{ site.page-col | default: "#111111" }};
+  	{% if site.page-img %}
+  	background-image: url({{ site.page-img | relative_url }});
+  	background-attachment: fixed;
+  	{% endif %}
+}
 
   <h1>Research</h1>
 
