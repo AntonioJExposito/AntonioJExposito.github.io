@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dr Antonio Expósito
+title: Dr Antonio Expósitos
 subtitle: Lecturer at The University of Bath
 ---
 
