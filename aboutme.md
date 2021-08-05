@@ -4,7 +4,7 @@ title: Dr Antonio Expósitos
 subtitle: Lecturer at The University of Bath
 ---
 
-![Alt Text](Antonio Github photo 2.jpg)
+![Antonio](https://github.com/AntonioJExposito/AntonioJExposito.github.io/blob/38a714e901f5b509c4f838a2f51c51df2bff423c/assets/img/Antonio%20Github%20photo%202.jpg)
 
 I am a Lecturer at the 
       <a href="https://www.bath.ac.uk/departments/department-of-chemical-engineering/" target="_blank">Department of Chemical Engineering, University of Bath</a>.
