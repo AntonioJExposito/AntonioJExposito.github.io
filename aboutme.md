@@ -5,7 +5,7 @@ subtitle: Lecturer at The University of Bath
 ---
 
 <p align="center">
-<img src="https://github.com/AntonioJExposito/AntonioJExposito.github.io/blob/main/assets/img/Antonio%20Github%20photo%202.jpg?raw=true" width="200">
+<img src="https://github.com/AntonioJExposito/AntonioJExposito.github.io/blob/main/assets/img/Antonio%20Github%20photo%202.jpg?raw=true" width="300">
 </p>
 
 I am a Lecturer at the 
@@ -21,5 +21,11 @@ Previously I was a postdoctoral researcher at
       I obtained my PhD from the <a href="https://www.uclm.es/?sc_lang=en" target="_blank">Universidad de Castilla-La Mancha</a> where I also studied as an undergraduate.
 	I have also recieved a Master's degree in Renewable Energy from 
 	  <a href="http://www.uam.es/" target="_blank">Universidad Autónoma de Madrid</a>.
-	  
-
+	
+	 
+	<h2>Contact</h2>
+	<p> Email: <a href="mailto:ajes22@bath.ac.uk"> ajes22@bath.ac.uk</a></p>
+	<p>Address: Wessex House Room 7.22, University of Bath, Claverton Down, Bath, BA2 7AY, United Kingdom</p>
+	
+	
+	
