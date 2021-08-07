@@ -25,6 +25,7 @@ Previously I was a postdoctoral researcher at
 	<h2>Contact</h2>
 	<p> Email: <a href="mailto:ajes22@bath.ac.uk"> ajes22@bath.ac.uk</a></p>
 	<p>Address: Wessex House Room 7.22, University of Bath, Claverton Down, Bath, BA2 7AY, United Kingdom</p>
+	</p>
 	
 	
 	
