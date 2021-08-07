@@ -22,9 +22,10 @@ Previously I was a postdoctoral researcher at
 	I have also recieved a Master's degree in Renewable Energy from 
 	  <a href="http://www.uam.es/" target="_blank">Universidad Autónoma de Madrid</a>.
 
-<h2>Contact</h2>
-<p> Email: <a href="mailto:ajes22@bath.ac.uk"> ajes22@bath.ac.uk</a></p>
-<p>Address: Wessex House Room 7.22, University of Bath, Claverton Down, Bath, BA2 7AY, United Kingdom</p>
+### Contact
+**Email:** <a href="mailto:ajes22@bath.ac.uk"> ajes22@bath.ac.uk</a>
+**Phone:** +44 (0) 1225 383208
+**Address:** Wessex House Room 7.22, University of Bath, Claverton Down, Bath, BA2 7AY, United Kingdom
 	
 	
 	
