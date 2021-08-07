@@ -16,8 +16,9 @@ author: Antonio Expósito • Kim Wu
 navbar-links:
   About Me: "aboutme"
   Research:
-    - Group members: "projects"
     - Projects: "group"
+    - Group members: "projects"
+    - Articles: "projects"
     - Former members: "group"
   News: "https://www.bbc.co.uk/"
 
