@@ -21,7 +21,7 @@ navbar-links:
   Research:
     - Projects: "group"
     - Articles: "projects"
-  News: "News"
+  News: "news_page"
 
 # --- Logo --- #
 
