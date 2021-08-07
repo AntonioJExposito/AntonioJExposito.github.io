@@ -18,7 +18,7 @@ navbar-links:
   About me: "aboutme"
   Group:
     - Group members: "members"
-    - Former members: "group"
+    - Former members: "former"
   Research:
     - Projects: "group"
     - Articles: "projects"
