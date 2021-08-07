@@ -14,14 +14,13 @@ author: Antonio Expósito • Kim Wu
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  About me: "aboutme"
   Group:
-    - About me: "aboutme"
     - Group members: "projects"
     - Former members: "group"
   Research:
     - Projects: "group"
     - Articles: "projects"
-  News: "https://www.bbc.co.uk/"
 
 # --- Logo --- #
 
