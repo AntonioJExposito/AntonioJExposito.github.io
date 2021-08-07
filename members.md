@@ -4,7 +4,7 @@ title: Group members
 subtitle: Meet the team
 ---
 
-### Postdocs
+## Postdocs
 
 **Dr James Hogg**
 
