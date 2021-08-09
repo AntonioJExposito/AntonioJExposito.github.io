@@ -16,9 +16,9 @@ author: Antonio Expósito • Kim Wu
 navbar-links:
   Home: "index"
   About me: "aboutme"
-  Group:
-    - Group members: "members"
-    - Former members: "former"
+  Group: "members"
+    #- Group members: "members"
+    #- Former members: "former"
   Research:
     - Projects: "group"
     - Articles: "projects"
